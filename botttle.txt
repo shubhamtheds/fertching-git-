@@ -1,3 +1,5 @@
 milton
 cello
 apple
+sony
+realme
