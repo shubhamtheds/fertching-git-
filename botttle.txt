@@ -3,3 +3,7 @@ cello
 apple
 sony
 realme
+alpha 
+beta 
+gamma
+delta
